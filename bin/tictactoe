@@ -1,4 +1,4 @@
-TicTacToe.play 
+TicTacToe.new 
 
 #!/usr/bin/env ruby
 require 'pry'
