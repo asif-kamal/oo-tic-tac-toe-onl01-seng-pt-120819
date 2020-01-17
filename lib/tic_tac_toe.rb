@@ -113,7 +113,6 @@ def play
   until over?
     turn_count
     turn
-    end
   end
     
   if won?
