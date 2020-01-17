@@ -1,4 +1,4 @@
-TicTacToe.new 
+TicTacToe.new.play 
 
 
 #!/usr/bin/env ruby
