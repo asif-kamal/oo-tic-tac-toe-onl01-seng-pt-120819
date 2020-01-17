@@ -113,8 +113,6 @@ def play
   until over?
     turn_count
     turn
-    if draw?
-      puts "Cat's Game!"
     end
   end
     
